@@ -10,7 +10,7 @@ foo = 1
 
 bar = foo
 
-where(foo)  # bar->foo from example.py:4
+where(bar)  # bar->foo from example.py:4
 ```
 
 
